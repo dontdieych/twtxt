@@ -1,0 +1,1 @@
+how about using 'mbox' format for twtxt selectively? we could only use 'From:', 'To:', 'Date:', 'Subject:' etc.
