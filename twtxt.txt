@@ -1,1 +1,1 @@
-how about using 'mbox' format for twtxt selectively? we could only use 'From:', 'To:', 'Date:', 'Subject:' etc.
+2016-02-08T02:05:53+09:00	how about using 'mbox' format for twtxt selectively? we could only use 'From:', 'To:', 'Date:', 'Subject:' etc.
